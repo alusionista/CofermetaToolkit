@@ -1,4 +1,4 @@
-package br.com.cofermeta.loginactivity
+package br.com.cofermeta.toolkit
 
 import org.junit.Test
 

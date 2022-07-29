@@ -1,4 +1,4 @@
-package br.com.cofermeta.loginactivity
+package br.com.cofermeta.toolkit
 
 import com.google.gson.JsonParser
 import okhttp3.MediaType.Companion.toMediaType

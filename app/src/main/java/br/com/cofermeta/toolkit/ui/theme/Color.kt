@@ -1,4 +1,4 @@
-package br.com.cofermeta.loginactivity.ui.theme
+package br.com.cofermeta.toolkit.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

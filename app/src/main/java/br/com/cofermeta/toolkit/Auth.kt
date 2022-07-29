@@ -1,9 +1,8 @@
-package br.com.cofermeta.loginactivity
+package br.com.cofermeta.toolkit
 
 import android.content.Context
 import android.util.Log
-import android.widget.Toast
-import br.com.cofermeta.loginactivity.Utils.getJsessionId
+import br.com.cofermeta.toolkit.Utils.getJsessionId
 import okhttp3.*
 import okhttp3.RequestBody.Companion.toRequestBody
 import java.io.IOException
